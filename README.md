@@ -8,12 +8,12 @@ In this project, PyTorch is used to create and train a ResNet-18 model and apply
 ## Project Structure
 **This project is divided into the following tasks:**
 
-- Introduction,
-- Importing Libraries,
-- Creating Custom Dataset,
-- Image Transformations,
-- Prepare DataLoader,
-- Data Visualization,
-- Creating the Model,
-- Training the Model,
-- Final Results.
+- Introduction
+- Importing Libraries
+- Creating Custom Dataset
+- Image Transformations
+- Prepare DataLoader
+- Data Visualization
+- Creating the Model
+- Training the Model
+- Final Results
